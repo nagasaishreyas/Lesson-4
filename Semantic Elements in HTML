@@ -13,6 +13,9 @@
         Visual art dates back tens of thousands of years, with the earliest known examples of art on a flat surface dating to
         30,000 BP or later
     </p>
+    <article>
+        <h2> Cave painting</h2>
+    </article>
     <p>
         Cave paintings :-
         The earliest known drawings are found on cave walls in France and Spain, and date from 30,000 to 10,000 B.C. Cave
@@ -24,8 +27,36 @@
     </figure>
     <center><figcaption>The cave painting</figcaption></center>
     <audio controls>
-        <source src="in-the-forest-2-21402.mp3"
+        <source src="in-the-forest-2-21402.mp3"</audio>
     </audio>
+    <article>
+        <h2> Figurative art</h2>
+    </article>
+        <p>The oldest known figurative art is a hunting scene discovered in an Indonesian cave in 2019, and is estimated to be at
+        least 43,900 years old.</p>
+    <figure>
+        <img src="https://www.artmatcher.com/wp-content/uploads/2023/03/The-Birth-of-Venus.png" />
+    </figure>
+
+    <center>
+        <figcaption>Figurative Art</figcaption>
+    </center>
+    <audio controls>
+        <source src="in-the-forest-2-21402.mp3" </audio></audio>
+    <article>
+        <h2> Papyrus drawings</h2>
+    </article>
+    <p>In ancient Egypt, ink drawings on papyrus were used as models for painting or sculpture.</p>
+    <figure>
+        <img src="https://lirp.cdn-website.com/cf150c9f/dms3rep/multi/opt/papyrus-640w.png" />
+    </figure>
+    
+<center>
+    <figcaption>Papyrus drawings</figcaption>
+</center>
+<audio controls>
+    <source src="in-the-forest-2-21402.mp3" </audio>
+</audio>
 </main>
 
 </body>
